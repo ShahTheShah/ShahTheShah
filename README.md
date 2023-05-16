@@ -1,9 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&vCenter=true&width=450&lines=Hello%2C+world!+;My+name+is+Shahriori!)](https://git.io/typing-svg)
 
----
-
-![I's me](https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e4798elcrser9u4s5ajb6bco4rt0ciog6iem8pivd7h&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-# 🙌HELLO, WORLD! My name is [Shahriori](https://t.me/ShahTheShah)!
 ---
 
 ## 🐱‍👤About me
