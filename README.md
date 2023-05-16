@@ -58,7 +58,7 @@ I'm a web developer, mostly) In this field for more than 3 years.For the first t
 <a href="mailto:ShahTheShah@ya.ru" target="_blank">
     <img src="https://ie.wampi.ru/2023/05/17/Email.png" />
 </a>
-<a href="https://core.telegram.org/bots/api" target="_blank">
+<a href="https://discordapp.com/users/ShahTheShah#1092" target="_blank">
     <img src="https://ic.wampi.ru/2023/05/17/Discord.png" />
 </a>
 <a href="https://wa.me/qr/L6DC3Y3QEAIXP1" target="_blank">
