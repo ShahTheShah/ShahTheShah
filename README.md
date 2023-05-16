@@ -1,9 +1,9 @@
-# 🙌HELLO, WORLD! My name is [Shahriori](https://t.me/ShahTheShah)!
 
 ---
 
 ![I's me](https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e4798elcrser9u4s5ajb6bco4rt0ciog6iem8pivd7h&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+# 🙌HELLO, WORLD! My name is [Shahriori](https://t.me/ShahTheShah)!
 ---
 
 ## 🐱‍👤About me
@@ -19,43 +19,34 @@ I'm a web developer, mostly) In this field for more than 3 years.For the first t
 
 ## 💻My skills
 
-<a href="#">
-    <img
-        src="https://ic.wampi.ru/2023/05/17/HTML5.png"
-    />
+<br/>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://ic.wampi.ru/2023/05/17/HTML5.png" />
 </a>
-<a href="#">
-    <img
-        src="https://ie.wampi.ru/2023/05/17/CSS3.png"
-    />
+<a href="https://developer.mozilla.org/ru/docs/Web/CSS">
+    <img src="https://ie.wampi.ru/2023/05/17/CSS3.png" />
 </a>
-<a href="#">
-    <img
-        src="https://ie.wampi.ru/2023/05/17/JavaScript.png"
-    />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://ie.wampi.ru/2023/05/17/JavaScript.png" />
 </a>
-<a href="#">
-    <img
-        src="https://im.wampi.ru/2023/05/17/EcmaScript.png"
-    />
+<a href="https://262.ecma-international.org/">
+    <img src="https://ie.wampi.ru/2023/05/17/EcmaScript.png" />
 </a>
-<a href="#">
-    <img
-        src="https://im.wampi.ru/2023/05/17/SCSS.png"
-    />
+<a href="https://sass-lang.com/documentation/">
+    <img src="https://im.wampi.ru/2023/05/17/SCSS.png" />
 </a>
-<a href="#">
-    <img
-        src="https://ic.wampi.ru/2023/05/17/Svelte.png"
-    />
+<a href="https://svelte.dev/docs">
+    <img src="https://ic.wampi.ru/2023/05/17/Svelte.png" />
 </a>
-<a href="#">
-    <img
-        src="https://im.wampi.ru/2023/05/17/TelegramBot.png"
-    />
+<a href="https://core.telegram.org/bots/api">
+    <img src="https://im.wampi.ru/2023/05/17/TelegramBot.png" />
 </a>
-<a href="#">
-    <img
-        src="https://ic.wampi.ru/2023/05/17/NodeJSServers.png"
-    />
+<a href="https://nodejs.org/en/docs">
+    <img src="https://ic.wampi.ru/2023/05/17/NodeJSServers.png" />
 </a>
+
+---
+
+## 👺Socials
+
