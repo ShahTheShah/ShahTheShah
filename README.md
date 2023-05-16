@@ -19,30 +19,34 @@ I'm a web developer, mostly) In this field for more than 3 years.For the first t
 
 ## 💻My skills
 
-<ul class="skills" style="list-style-type: none; display: flex; flex-wrap: wrap; gap: 30px">
-    <li>
-        <a style="display: flex; flex-direction: column; align-items: center; gap: 10px" href="#">
-            <img
-                src="https://res.cloudinary.com/apideck/image/upload/w_128,f_auto/v1588773466/catalog/svelte-dev/icon128x128.png"
-                style="border-radius: 30px; width: 120px; height: 120px; object-fit: cover"
-            />
-            Svelte
-        </a>
-    </li>
-    <li>
-        <a style="display: flex; flex-direction: column; align-items: center; gap: 10px" href="#">
-            <img
-                src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/128/Apps-HTML-5-Metro-icon.png"
-                style="border-radius: 30px; width: 120px; height: 120px; object-fit: cover"
-            />
-        </a>
-    </li>
-    <li>
-        <a style="display: flex; flex-direction: column; align-items: center; gap: 10px" href="#">
-            <img
-                src="https://fb.ru/misc/i/gallery/59435/2842709.jpg"
-                style="border-radius: 30px; width: 120px; height: 120px; object-fit: cover"
-            />
-        </a>
-    </li>
-</ul>
+<a href="#">
+    <img
+        src="https://sun9-17.userapi.com/impg/j--SwBbYfo9ljQ1QLKE0nkjvabWCABfSstgPhw/F6LTqBzM4Y0.jpg?size=128x128&quality=95&sign=9ed515feabe5021763aa89076eb4e4f3&type=album"
+        style="border-radius: 30px; width: 120px; height: 120px; object-fit: cover"
+    />
+</a>
+<a href="#">
+    <img
+        src="https://sun9-28.userapi.com/impg/CnVRgRUrtJBp7qqEIy5o0YBryB-0dK2BOcO3_w/iZ3od4-T39E.jpg?size=128x128&quality=95&sign=4775b065d75f01ebfa31c588b6cd1b54&type=album"
+    />
+</a>
+<a href="#">
+    <img
+        src="https://sun9-78.userapi.com/impg/XpXngl_S8uaIDG66psiR6Gfkys0NuP0eiEjyng/y5ioV-etYGA.jpg?size=128x128&quality=95&sign=dcfcf8311cc5d2ebe3ade15daa2c1ec1&type=album"
+    />
+</a>
+<a href="#">
+    <img
+        src="https://sun9-65.userapi.com/impg/rBVS98_L6jsYH7KF1gbSgcpxZkPNyLeaXzRBUg/xn8E0N1vvcc.jpg?size=128x128&quality=95&sign=ad7b9d4404f2f4ddc60cece3293766e4&type=album"
+    />
+</a>
+<a href="#">
+    <img
+        src="https://sun9-21.userapi.com/impg/PA3vSebKsRHrDFYK7vtP0nTYpFT-Xo_L9jmkPA/LqYn9qLWbbU.jpg?size=128x128&quality=95&sign=92ca16f241eda1cb79281abac7a6ed50&type=album"
+    />
+</a>
+<a href="#">
+    <img
+        src="https://sun9-42.userapi.com/impg/23EFd4lnb-_2sUSdqYFk1kVeUmbItdd_MxB8MA/GAimhlBUuBU.jpg?size=128x128&quality=95&sign=1a4b72a563c0b43310023a45d7b4df1b&type=album"
+    />
+</a>
