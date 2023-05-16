@@ -62,5 +62,5 @@ I'm a web developer, mostly) In this field for more than 3 years.For the first t
     <img src="https://ic.wampi.ru/2023/05/17/Discord.png" />
 </a>
 <a href="https://wa.me/qr/L6DC3Y3QEAIXP1">
-    <img src="https://ic.wampi.ru/2023/05/17/Whatsapp.png" />
+    <img src="https://im.wampi.ru/2023/05/17/Whatsapp.png" />
 </a>
