@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&pause=1000&vCenter=true&width=450&lines=Hello%2C+world!+;My+name+is+Shahriori!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&pause=1000&vCenter=true&width=450&lines=%F0%9F%99%8C+Hello%2C+world!+;%F0%9F%98%8E+My+name+is+Shahriori!)](https://git.io/typing-svg)
 
 ---
 
