@@ -45,6 +45,9 @@ I'm a web developer, mostly) In this field for more than 3 years.For the first t
 <a href="https://nodejs.org/en/docs">
     <img src="https://ic.wampi.ru/2023/05/17/NodeJSServers.png" />
 </a>
+<a href="https://www.python.org/doc/">
+    <img src="https://ie.wampi.ru/2023/05/17/Python.png" />
+</a>
 
 ---
 
