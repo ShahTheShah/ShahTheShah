@@ -67,7 +67,7 @@ I'm a web developer, mostly) In this field for more than 3 years.For the first t
 ---
 
 ## ╰(*°▽°*)╯ My Codewars Stats
-![Codewars](https://github.r2v.ch/codewars?user=ShahTheShah&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=ShahTheShah&theme=)
 
 ## (┬┬﹏┬┬) My Github Stats
 
