@@ -63,3 +63,28 @@ I'm a web developer, mostly) In this field for more than 3 years.For the first t
 <a href="https://wa.me/qr/L6DC3Y3QEAIXP1" target="_blank">
     <img src="https://im.wampi.ru/2023/05/17/Whatsapp.png" />
 </a>
+
+---
+
+## ╰(*°▽°*)╯ My Codewars Stats
+![Codewars](https://github.r2v.ch/codewars?user=ShahTheShah&top_languages=true&theme=gradient)
+
+## My Github Stats
+
+<table>
+    <tr>
+        <td>
+            <a href="#">
+                <img src="https://github-readme-stats.vercel.app/api?username=ShahTheShah&show_icons=true&theme=radical" />
+            </a>
+        </td>
+        <td>
+            <a href="#">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahTheShah&theme=radical&layout=compact" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahTheShah&repo=West_New)](https://github.com/anuraghazra/github-readme-stats) -->
