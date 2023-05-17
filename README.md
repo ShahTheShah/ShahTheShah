@@ -2,7 +2,7 @@
 
 ---
 
-## 🐱‍👤About me
+## 🐱‍👤About me / Чуток обо мне
 
 I'm a web developer, mostly) In this field for more than 3 years. For the first time, my path in this business began in the 10th grade, when my dad bought me a laptop for studying. Then the coronavirus had just begun. I studied a lot of things: Python, JavaScript, C++, Arduino Wiring. But my soul is still closer to Web and JavaScript. Although I respect his ECMAScript specification more.
 
@@ -20,7 +20,7 @@ I'm a web developer, mostly) In this field for more than 3 years. For the first 
 
 ---
 
-## 💻My skills
+## 💻My skills / Если это можно называть умениями
 
 <br/>
 
@@ -54,7 +54,7 @@ I'm a web developer, mostly) In this field for more than 3 years. For the first 
 
 ---
 
-## 👺Socials
+## 👺Socials / Радио
 
 <br />
 
@@ -73,12 +73,12 @@ I'm a web developer, mostly) In this field for more than 3 years. For the first 
 
 ---
 
-## ╰(*°▽°*)╯ My Codewars Stats
+## ╰(*°▽°*)╯ My Codewars Stats / Тут я позорюсь
 <a href="https://www.codewars.com/users/ShahTheShah">
     <img src="https://github.r2v.ch/codewars?user=ShahTheShah&theme=" />
 </a>
 
-## (┬┬﹏┬┬) My Github Stats
+## (┬┬﹏┬┬) My Github Stats / А это просто прикольно
 
 <table>
     <tr>
