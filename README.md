@@ -4,12 +4,19 @@
 
 ## 🐱‍👤About me
 
-I'm a web developer, mostly) In this field for more than 3 years.For the first time, my path in this business began in the 10th grade, when my dad bought me a laptop for studying. Then the coronavirus had just begun. I studied a lot of things: Python, JavaScript, C++, Arduino Wiring. But my soul is still closer to Web and JavaScript. Although I respect his ECMAScript specification more.
+I'm a web developer, mostly) In this field for more than 3 years. For the first time, my path in this business began in the 10th grade, when my dad bought me a laptop for studying. Then the coronavirus had just begun. I studied a lot of things: Python, JavaScript, C++, Arduino Wiring. But my soul is still closer to Web and JavaScript. Although I respect his ECMAScript specification more.
 
+> Я веб разработчик, в основном) В этой области уже более 3-х лет. Впервые мой путь в этом направлении начался в 10-м классе, когда папа купил мне ноутбук для учебы. Тогда коронавирус только начинался. Я изучал множество вещей: Python, JavaScript, C++, Arduino Wiring. Но, моей душе все равно ближе веб и JavaScript. Хотя я больше уважаю его спецификацию ECMAScript.
+>
 + 📫 I'm based in Russia, Krasnodar
 + 📧 You can contact me at **ShahTheShah@ya.ru**
 + 😊 I have a very strong desire to develop in my field until the moment when they will already run after me)
 + 📱 At the moment, he is immersed in the study of ***Svelte*** and the development of ***telegram bots***
+
+> + 📫 Я живу в России,  Краснодар
+> + 📧 Вы можете связаться со мной по адресу **ShahTheShah@ya.ru**
+> + 😊 У меня есть очень сильное желание развиваться в своей области до того момента, когда уже будут бегать за мной)
+> + 📱 На данный момент я погружен в изучение **Svelte** и разработку **telegram-ботов**
 
 ---
 
