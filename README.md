@@ -96,4 +96,4 @@ I'm a web developer, mostly) In this field for more than 3 years. For the first 
 </table>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahTheShah&repo=SvelteSceleton)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahTheShah&repo=SvelteSceleton)](https://github.com/ShahTheShah/SvelteSceleton.git)
