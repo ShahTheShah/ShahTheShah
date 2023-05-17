@@ -67,7 +67,9 @@ I'm a web developer, mostly) In this field for more than 3 years.For the first t
 ---
 
 ## ╰(*°▽°*)╯ My Codewars Stats
-![Codewars](https://github.r2v.ch/codewars?user=ShahTheShah&theme=)
+<a href="https://www.codewars.com/users/ShahTheShah">
+    <img src="https://github.r2v.ch/codewars?user=ShahTheShah&theme=" />
+</a>
 
 ## (┬┬﹏┬┬) My Github Stats
 
